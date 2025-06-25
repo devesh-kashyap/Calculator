@@ -1,5 +1,5 @@
 
-<scripts>
+
 
     let inputBox = document.getElementById('inputBox')
     let button =document.querySelectorAll('button')
@@ -39,6 +39,6 @@
             }) })
        
 
-<scripts>
+
 
 
